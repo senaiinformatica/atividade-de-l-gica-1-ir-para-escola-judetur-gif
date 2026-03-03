@@ -1,0 +1,56 @@
+ Acordo
+* Abro o olho
+* Tiro o cobertor de cima de mim
+* Coloco o chinelo
+* Ando até o despertador(celular)
+* Desligo o despertador
+* Abro a porta do meu quarto 
+* Ando até o banheiro 
+* Pego minha escova
+* Pego a pasta de dente
+* Passo a pasta na escova
+* Escovo os dentes
+* Enxaguo a boca com água da torneira da pia do banheiro
+* Seco minha boca com a toalha de rosto
+* Vou até meu quarto novamente
+* Abro o armário
+* Penso qual roupa ir até o SENAI
+* Pego a roupa do armário 
+* Coloco a roupa 
+* Passo desodorante
+* Passo perfume
+* fecho o armário
+* Desço até a sala
+* Deixo minha mochila na sala
+* Vou até a porta dos fundos
+* Destranco a porta dos fundos
+* Vou até o fundo de casa
+* Pego meu sapato
+* Coloco o sapato
+* Entro em casa 
+* Tranco minha porta
+* Vou até o banheiro de baixo
+* Vou a sala
+* Pego minha mochila
+* Destranco a porto da frente
+* Saio para a garagem
+* Tranco a porta da frente
+* Vou até o portão de casa
+* Destranco o portão de casa
+* Saio de casa
+* Tranco o portão de casa
+* Ando até o ponto de ônibus
+* Chego no ponto de ônibus
+* Espero no ponto de ônibus o ônibus
+* O ônibus chega
+* Entro no ônibus
+* Pago minha passagem
+* Passo na catraca do ônibus
+* Acho algum lugar no ônibus para ficar (qualquer lugar 'sem ser preferencial')
+* Espero o ônibus chegar até o ponto de ônibus de São Caetano
+* Saio do ônibus
+* Vou até ao SENAI
+* Chego no SENAI
+* Entro no SENAI
+* Passo na catraca do SENAI
+* E espero a aula começar
